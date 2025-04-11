@@ -19,3 +19,5 @@ Node.js
 Express.js
 MongoDB (Mongoose ODM)
 CORS
+video demo of project
+https://www.loom.com/share/fb07af975bd44e1693f56dcedc23d7c9
